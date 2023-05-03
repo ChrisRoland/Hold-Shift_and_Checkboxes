@@ -1,6 +1,7 @@
 html {
     font-family: sans-serif;
-    background: #ffc600;
+    background: rgb(246,233,8);
+    background: linear-gradient(90deg, rgba(246,233,8,0.9262298669467787) 0%, rgba(255,186,0,1) 49%, rgba(238,65,0,1) 100%);
   }
 
   .inbox {
